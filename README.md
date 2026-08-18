@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Developer | AI/ML | Building AI-powered products with the MERN & Next.js stack</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%7C+React+%7C+Node.js+%7C+PostgreSQL;600%2B+DSA+Problems+Solved;Building+AI-powered+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI/ML;Next.js+%7C+React+%7C+Node.js+%7C+PostgreSQL;600%2B+DSA+Problems+Solved;Building+AI-powered+Web+Apps" alt="Typing SVG" />
 </p>
 
 <p align="center">
