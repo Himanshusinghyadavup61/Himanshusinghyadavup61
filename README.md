@@ -86,17 +86,3 @@ Agri-tech assistant platform built to support farmers.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Himanshusinghyadavup61&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshusinghyadavup61&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshusinghyadavup61&layout=compact&hide_border=true" />
-</p>
-
----
-
-<p align="center"><i>⭐️ From <a href="https://github.com/Himanshusinghyadavup61">Himanshusinghyadavup61</a></i></p>
